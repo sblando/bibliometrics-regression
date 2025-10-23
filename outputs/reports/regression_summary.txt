@@ -1,0 +1,7 @@
+Linear Regression: total_citations ~ document_count
+Intercept (β0): -30.083969
+Coefficient (β1): 39.452361
+R-squared: 0.543479
+
+Model equation:
+total_citations = -30.083969 + 39.452361 × document_count
