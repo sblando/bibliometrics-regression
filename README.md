@@ -1,9 +1,15 @@
 
-# 📊 Bibliometric Regression Analysis of Library Marketing Impact (2010–2015)
+# 📊 Bibliometric Regression Analysis of Library Marketing Impact (2010–2025)
 
 This project performs a **bibliometric linear regression analysis** to explore the relationship between the **number of indexed research documents** and the **total citation impact** of authors publishing in the field of **library marketing**.
 
 The analysis relies on bibliometric data extracted from **Web of Science (WoS)** and processed through **InCites (Clarivate Analytics)**.
+
+<p align="center">
+  <img src="https://github.com/sblando/bibliometrics-sql-regression/blob/45dd4342e9e1e9fc5c0359563569dc7f90fdb9fd/outputs/plots/regression_line.png?raw=true" 
+       alt="Regression Line Plot" 
+       width="600">
+</p>
 
 ---
 
